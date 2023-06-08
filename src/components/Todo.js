@@ -1,6 +1,7 @@
 import React from 'react'
 import {RiCloseCircleLine} from 'react-icons/ri'
 import {TiEdit} from 'react-icons/ti'
+
 export const Todo = ({task, deleteTodo, editTodo, toggleComplete}) => {
  
   return (
